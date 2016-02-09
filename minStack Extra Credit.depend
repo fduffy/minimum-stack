@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1455032549 source:c:\users\francis\desktop\spring2016\comp330 - data structs and algorithms\projects\minstack extra credit\main.cpp
+	<iostream>
+	"genStack.h"
+
+1455033023 c:\users\francis\desktop\spring2016\comp330 - data structs and algorithms\projects\minstack extra credit\genstack.h
+	<vector>
+
